@@ -1,0 +1,1261 @@
+2021-09-08 20:58:12,785 [main] INFO automation_practice - Automation Testing Practice
+2021-09-08 20:58:12,899 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-08 20:58:16,119 [main] INFO automation_practice - First Name is:- 
+2021-09-08 20:58:16,826 [main] INFO automation_practice - Male
+2021-09-08 20:59:22,925 [main] INFO automation_practice - Automation Testing Practice
+2021-09-08 20:59:23,043 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-08 20:59:26,190 [main] INFO automation_practice - First Name is:- 
+2021-09-08 20:59:27,095 [main] INFO automation_practice - Female
+2021-09-09 07:09:46,197 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 07:09:46,367 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 07:09:49,505 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 07:09:50,361 [main] INFO automation_practice - 
+2021-09-09 07:09:50,703 [main] INFO automation_practice - 
+2021-09-09 07:10:44,764 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 07:10:44,881 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 07:10:48,130 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 07:10:48,907 [main] INFO automation_practice - 
+2021-09-09 07:10:49,297 [main] INFO automation_practice - 
+2021-09-09 07:10:49,325 [main] INFO automation_practice - 
+2021-09-09 07:14:45,486 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 07:14:45,620 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 07:14:48,863 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 07:14:49,839 [main] INFO automation_practice - Female
+2021-09-09 07:14:50,295 [main] INFO automation_practice - 
+2021-09-09 07:14:50,321 [main] INFO automation_practice - 
+2021-09-09 13:01:26,949 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 13:01:27,460 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 13:01:30,681 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:06:57,036 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 17:06:57,918 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 17:07:01,080 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:07:01,783 [main] INFO automation_practice - Female
+2021-09-09 17:07:02,177 [main] INFO automation_practice - Monday
+2021-09-09 17:07:02,214 [main] INFO automation_practice - Tuesday
+2021-09-09 17:08:38,122 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 17:08:38,258 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 17:08:41,475 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:08:42,155 [main] INFO automation_practice - Female
+2021-09-09 17:08:42,493 [main] INFO automation_practice - Sunday
+2021-09-09 17:11:19,687 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 17:11:19,809 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 17:11:22,964 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:11:23,733 [main] INFO automation_practice - Female
+2021-09-09 17:11:23,970 [main] INFO automation_practice - Sunday
+2021-09-09 17:11:58,760 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 17:11:58,886 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 17:12:02,065 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:12:02,893 [main] INFO automation_practice - Female
+2021-09-09 17:12:03,154 [main] INFO automation_practice - Monday
+2021-09-09 17:12:41,018 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 17:12:41,164 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 17:12:44,318 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:12:45,185 [main] INFO automation_practice - Female
+2021-09-09 17:12:45,510 [main] INFO automation_practice - Tuesday
+2021-09-09 17:13:41,161 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 17:13:41,278 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 17:13:44,435 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 17:13:45,134 [main] INFO automation_practice - Female
+2021-09-09 22:12:21,021 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:12:21,341 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:12:24,614 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:12:25,340 [main] INFO automation_practice - Female
+2021-09-09 22:15:51,553 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:15:51,665 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:15:54,888 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:15:55,723 [main] INFO automation_practice - Female
+2021-09-09 22:16:01,091 [main] INFO automation_practice - Monday
+2021-09-09 22:20:41,445 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:20:41,558 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:20:44,722 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:20:45,471 [main] INFO automation_practice - Female
+2021-09-09 22:20:45,673 [main] INFO automation_practice - Wednesday
+2021-09-09 22:24:22,587 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:24:22,700 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:24:25,867 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:24:26,659 [main] INFO automation_practice - Female
+2021-09-09 22:25:25,666 [main] INFO automation_practice - Wednesday
+2021-09-09 22:27:22,195 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:27:22,328 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:27:25,478 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:27:26,362 [main] INFO automation_practice - Female
+2021-09-09 22:27:31,643 [main] INFO automation_practice - Tuesday
+2021-09-09 22:29:13,833 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:29:14,001 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:29:17,218 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:29:17,990 [main] INFO automation_practice - Female
+2021-09-09 22:29:23,362 [main] INFO automation_practice - Tuesday
+2021-09-09 22:30:49,297 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:30:49,446 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:30:52,589 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:30:53,359 [main] INFO automation_practice - Female
+2021-09-09 22:30:58,742 [main] INFO automation_practice - Monday
+2021-09-09 22:30:58,852 [main] INFO automation_practice - Tuesday
+2021-09-09 22:31:57,189 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:31:57,362 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:32:00,510 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:32:01,306 [main] INFO automation_practice - Female
+2021-09-09 22:32:06,513 [main] INFO automation_practice - Sunday
+2021-09-09 22:32:57,007 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:32:57,119 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:33:00,251 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:33:01,027 [main] INFO automation_practice - Female
+2021-09-09 22:33:06,243 [main] INFO automation_practice - Sunday
+2021-09-09 22:34:30,797 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:34:30,957 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:34:34,182 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:34:35,022 [main] INFO automation_practice - Female
+2021-09-09 22:34:40,293 [main] INFO automation_practice - Monday
+2021-09-09 22:34:40,419 [main] INFO automation_practice - Tuesday
+2021-09-09 22:36:05,133 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:36:05,249 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:36:08,386 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:36:09,161 [main] INFO automation_practice - Female
+2021-09-09 22:36:14,533 [main] INFO automation_practice - Monday
+2021-09-09 22:36:14,693 [main] INFO automation_practice - Tuesday
+2021-09-09 22:37:21,665 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:37:21,783 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:37:24,940 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:37:25,700 [main] INFO automation_practice - Female
+2021-09-09 22:37:31,149 [main] INFO automation_practice - Monday
+2021-09-09 22:37:31,382 [main] INFO automation_practice - Tuesday
+2021-09-09 22:38:12,033 [main] INFO automation_practice - Automation Testing Practice
+2021-09-09 22:38:12,179 [main] INFO automation_practice - Volunteer Sign Up
+2021-09-09 22:38:15,343 [main] INFO automation_practice - First Name is:- Virat
+2021-09-09 22:38:16,137 [main] INFO automation_practice - Female
+2021-09-09 22:38:21,629 [main] INFO automation_practice - Monday
+2021-09-09 22:38:21,784 [main] INFO automation_practice - Tuesday
+2021-09-12 08:39:16,247 [main] INFO automation_practice - 24
+2021-09-12 08:39:16,319 [main] INFO automation_practice - 7
+2021-09-12 08:39:16,354 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,370 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,400 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,426 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,463 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,485 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,511 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,543 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,564 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,596 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,613 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,636 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,661 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,680 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,710 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,734 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,753 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,767 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,793 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,813 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,839 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,863 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,889 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,913 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:39:16,953 [main] INFO automation_practice - Amit
+2021-09-12 08:39:16,970 [main] INFO automation_practice - Amit
+2021-09-12 08:39:16,990 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,013 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,040 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,070 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,096 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,115 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,135 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,154 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,168 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,185 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,209 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,228 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,255 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,269 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,288 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,319 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,343 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,371 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,402 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,416 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,436 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,465 [main] INFO automation_practice - Amit
+2021-09-12 08:39:17,508 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,524 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,548 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,567 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,583 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,608 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,626 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,657 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,671 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,700 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,717 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,743 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,763 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,778 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,802 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,815 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,832 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,867 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,887 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,909 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,923 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,940 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,965 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:17,979 [main] INFO automation_practice - Selenium
+2021-09-12 08:39:18,012 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,027 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,045 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,067 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,083 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,109 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,125 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,143 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,168 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,197 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,242 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,269 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,292 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,324 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,344 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,374 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,412 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,461 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,482 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,505 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,526 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,565 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,593 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,614 [main] INFO automation_practice - 300
+2021-09-12 08:39:18,643 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,667 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,682 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,711 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,724 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,745 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,764 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,775 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,789 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,817 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,828 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,845 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,862 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,876 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,902 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,919 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,938 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,974 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:18,993 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:19,019 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:19,035 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:19,068 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:19,082 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:19,101 [main] INFO automation_practice - Learn Java
+2021-09-12 08:39:19,127 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,149 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,167 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,177 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,213 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,230 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,247 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,270 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,294 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,315 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,329 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,362 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,377 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,416 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,436 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,456 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,473 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,514 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,529 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,551 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,571 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,586 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,613 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,626 [main] INFO automation_practice - Mukesh
+2021-09-12 08:39:19,663 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,673 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,688 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,736 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,762 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,776 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,791 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,822 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,835 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,866 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,882 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,902 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,920 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,948 [main] INFO automation_practice - Java
+2021-09-12 08:39:19,978 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,014 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,029 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,065 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,080 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,109 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,131 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,157 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,177 [main] INFO automation_practice - Java
+2021-09-12 08:39:20,203 [main] INFO automation_practice - Java
+2021-09-12 08:42:06,193 [main] INFO automation_practice - 24
+2021-09-12 08:42:06,274 [main] INFO automation_practice - 7
+2021-09-12 08:42:06,303 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:06,352 [main] INFO automation_practice - Amit
+2021-09-12 08:42:06,389 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:06,434 [main] INFO automation_practice - 300
+2021-09-12 08:42:06,489 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:06,531 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:06,559 [main] INFO automation_practice - Java
+2021-09-12 08:42:06,584 [main] INFO automation_practice - 500
+2021-09-12 08:42:06,625 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:06,648 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:06,679 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:06,719 [main] INFO automation_practice - 300
+2021-09-12 08:42:06,736 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:06,762 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:06,782 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:06,813 [main] INFO automation_practice - 3000
+2021-09-12 08:42:06,835 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:06,865 [main] INFO automation_practice - Amod
+2021-09-12 08:42:06,895 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:06,924 [main] INFO automation_practice - 2000
+2021-09-12 08:42:06,943 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:06,978 [main] INFO automation_practice - Amit
+2021-09-12 08:42:06,997 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:07,022 [main] INFO automation_practice - 1000
+2021-09-12 08:42:07,035 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:07,055 [main] INFO automation_practice - Amit
+2021-09-12 08:42:07,073 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:07,085 [main] INFO automation_practice - 300
+2021-09-12 08:42:07,125 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:07,142 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:07,171 [main] INFO automation_practice - Java
+2021-09-12 08:42:07,185 [main] INFO automation_practice - 500
+2021-09-12 08:42:07,223 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:07,238 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:07,274 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:07,291 [main] INFO automation_practice - 300
+2021-09-12 08:42:07,325 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:07,343 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:07,373 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:07,385 [main] INFO automation_practice - 3000
+2021-09-12 08:42:07,399 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:07,422 [main] INFO automation_practice - Amod
+2021-09-12 08:42:07,449 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:07,475 [main] INFO automation_practice - 2000
+2021-09-12 08:42:07,486 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:07,500 [main] INFO automation_practice - Amit
+2021-09-12 08:42:07,525 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:07,544 [main] INFO automation_practice - 1000
+2021-09-12 08:42:07,560 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:07,579 [main] INFO automation_practice - Amit
+2021-09-12 08:42:07,590 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:07,607 [main] INFO automation_practice - 300
+2021-09-12 08:42:07,626 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:07,639 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:07,653 [main] INFO automation_practice - Java
+2021-09-12 08:42:07,680 [main] INFO automation_practice - 500
+2021-09-12 08:42:07,691 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:07,722 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:07,738 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:07,757 [main] INFO automation_practice - 300
+2021-09-12 08:42:07,777 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:07,790 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:07,822 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:07,856 [main] INFO automation_practice - 3000
+2021-09-12 08:42:07,888 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:07,905 [main] INFO automation_practice - Amod
+2021-09-12 08:42:07,928 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:07,937 [main] INFO automation_practice - 2000
+2021-09-12 08:42:07,949 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:07,972 [main] INFO automation_practice - Amit
+2021-09-12 08:42:07,984 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:07,995 [main] INFO automation_practice - 1000
+2021-09-12 08:42:08,013 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:08,032 [main] INFO automation_practice - Amit
+2021-09-12 08:42:08,044 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:08,060 [main] INFO automation_practice - 300
+2021-09-12 08:42:08,076 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:08,085 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:08,096 [main] INFO automation_practice - Java
+2021-09-12 08:42:08,114 [main] INFO automation_practice - 500
+2021-09-12 08:42:08,137 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:08,147 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:08,168 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:08,180 [main] INFO automation_practice - 300
+2021-09-12 08:42:08,190 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:08,202 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:08,224 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:08,236 [main] INFO automation_practice - 3000
+2021-09-12 08:42:08,246 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:08,264 [main] INFO automation_practice - Amod
+2021-09-12 08:42:08,285 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:08,295 [main] INFO automation_practice - 2000
+2021-09-12 08:42:08,315 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:08,333 [main] INFO automation_practice - Amit
+2021-09-12 08:42:08,343 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:08,368 [main] INFO automation_practice - 1000
+2021-09-12 08:42:08,383 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:08,390 [main] INFO automation_practice - Amit
+2021-09-12 08:42:08,405 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:08,427 [main] INFO automation_practice - 300
+2021-09-12 08:42:08,438 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:08,448 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:08,465 [main] INFO automation_practice - Java
+2021-09-12 08:42:08,481 [main] INFO automation_practice - 500
+2021-09-12 08:42:08,491 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:08,502 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:08,523 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:08,535 [main] INFO automation_practice - 300
+2021-09-12 08:42:08,546 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:08,557 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:08,576 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:08,596 [main] INFO automation_practice - 3000
+2021-09-12 08:42:08,611 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:08,628 [main] INFO automation_practice - Amod
+2021-09-12 08:42:08,637 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:08,647 [main] INFO automation_practice - 2000
+2021-09-12 08:42:08,668 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:08,683 [main] INFO automation_practice - Amit
+2021-09-12 08:42:08,693 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:08,711 [main] INFO automation_practice - 1000
+2021-09-12 08:42:08,729 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:08,740 [main] INFO automation_practice - Amit
+2021-09-12 08:42:08,750 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:08,766 [main] INFO automation_practice - 300
+2021-09-12 08:42:08,782 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:08,792 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:08,803 [main] INFO automation_practice - Java
+2021-09-12 08:42:08,825 [main] INFO automation_practice - 500
+2021-09-12 08:42:08,834 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:08,843 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:08,856 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:08,885 [main] INFO automation_practice - 300
+2021-09-12 08:42:08,897 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:08,914 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:08,929 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:08,938 [main] INFO automation_practice - 3000
+2021-09-12 08:42:08,949 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:08,965 [main] INFO automation_practice - Amod
+2021-09-12 08:42:08,986 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:08,996 [main] INFO automation_practice - 2000
+2021-09-12 08:42:09,015 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:09,036 [main] INFO automation_practice - Amit
+2021-09-12 08:42:09,047 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:09,065 [main] INFO automation_practice - 1000
+2021-09-12 08:42:09,085 [main] INFO automation_practice - Learn Selenium
+2021-09-12 08:42:09,094 [main] INFO automation_practice - Amit
+2021-09-12 08:42:09,105 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:09,124 [main] INFO automation_practice - 300
+2021-09-12 08:42:09,138 [main] INFO automation_practice - Learn Java
+2021-09-12 08:42:09,148 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:09,166 [main] INFO automation_practice - Java
+2021-09-12 08:42:09,184 [main] INFO automation_practice - 500
+2021-09-12 08:42:09,195 [main] INFO automation_practice - Learn JS
+2021-09-12 08:42:09,210 [main] INFO automation_practice - Animesh
+2021-09-12 08:42:09,230 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:09,239 [main] INFO automation_practice - 300
+2021-09-12 08:42:09,248 [main] INFO automation_practice - Master In Selenium
+2021-09-12 08:42:09,265 [main] INFO automation_practice - Mukesh
+2021-09-12 08:42:09,279 [main] INFO automation_practice - Selenium
+2021-09-12 08:42:09,288 [main] INFO automation_practice - 3000
+2021-09-12 08:42:09,300 [main] INFO automation_practice - Master In Java
+2021-09-12 08:42:09,314 [main] INFO automation_practice - Amod
+2021-09-12 08:42:09,328 [main] INFO automation_practice - JAVA
+2021-09-12 08:42:09,336 [main] INFO automation_practice - 2000
+2021-09-12 08:42:09,346 [main] INFO automation_practice - Master In JS
+2021-09-12 08:42:09,363 [main] INFO automation_practice - Amit
+2021-09-12 08:42:09,383 [main] INFO automation_practice - Javascript
+2021-09-12 08:42:09,393 [main] INFO automation_practice - 1000
+2021-09-14 21:07:32,453 [main] INFO automation_practice - 24
+2021-09-14 21:07:32,555 [main] INFO automation_practice - 7
+2021-09-14 21:07:32,597 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:32,629 [main] INFO automation_practice - Amit
+2021-09-14 21:07:32,663 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:32,703 [main] INFO automation_practice - 300
+2021-09-14 21:07:32,734 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:32,771 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:32,794 [main] INFO automation_practice - Java
+2021-09-14 21:07:32,821 [main] INFO automation_practice - 500
+2021-09-14 21:07:32,854 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:32,874 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:32,899 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:32,927 [main] INFO automation_practice - 300
+2021-09-14 21:07:32,947 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:32,970 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:32,993 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:33,020 [main] INFO automation_practice - 3000
+2021-09-14 21:07:33,040 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:33,061 [main] INFO automation_practice - Amod
+2021-09-14 21:07:33,081 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:33,104 [main] INFO automation_practice - 2000
+2021-09-14 21:07:33,127 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:33,148 [main] INFO automation_practice - Amit
+2021-09-14 21:07:33,171 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:33,192 [main] INFO automation_practice - 1000
+2021-09-14 21:07:33,207 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:33,224 [main] INFO automation_practice - Amit
+2021-09-14 21:07:33,238 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:33,251 [main] INFO automation_practice - 300
+2021-09-14 21:07:33,264 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:33,281 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:33,295 [main] INFO automation_practice - Java
+2021-09-14 21:07:33,309 [main] INFO automation_practice - 500
+2021-09-14 21:07:33,322 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:33,335 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:33,349 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:33,364 [main] INFO automation_practice - 300
+2021-09-14 21:07:33,378 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:33,395 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:33,413 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:33,435 [main] INFO automation_practice - 3000
+2021-09-14 21:07:33,455 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:33,484 [main] INFO automation_practice - Amod
+2021-09-14 21:07:33,511 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:33,528 [main] INFO automation_practice - 2000
+2021-09-14 21:07:33,543 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:33,557 [main] INFO automation_practice - Amit
+2021-09-14 21:07:33,571 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:33,585 [main] INFO automation_practice - 1000
+2021-09-14 21:07:33,603 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:33,617 [main] INFO automation_practice - Amit
+2021-09-14 21:07:33,630 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:33,641 [main] INFO automation_practice - 300
+2021-09-14 21:07:33,656 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:33,675 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:33,694 [main] INFO automation_practice - Java
+2021-09-14 21:07:33,709 [main] INFO automation_practice - 500
+2021-09-14 21:07:33,738 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:33,758 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:33,771 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:33,784 [main] INFO automation_practice - 300
+2021-09-14 21:07:33,797 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:33,809 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:33,820 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:33,841 [main] INFO automation_practice - 3000
+2021-09-14 21:07:33,863 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:33,876 [main] INFO automation_practice - Amod
+2021-09-14 21:07:33,888 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:33,903 [main] INFO automation_practice - 2000
+2021-09-14 21:07:33,917 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:33,939 [main] INFO automation_practice - Amit
+2021-09-14 21:07:33,951 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:33,962 [main] INFO automation_practice - 1000
+2021-09-14 21:07:33,974 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:33,987 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,000 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,011 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,023 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:34,034 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,046 [main] INFO automation_practice - Java
+2021-09-14 21:07:34,057 [main] INFO automation_practice - 500
+2021-09-14 21:07:34,069 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:34,080 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:34,091 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:34,103 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,115 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:34,126 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,138 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,152 [main] INFO automation_practice - 3000
+2021-09-14 21:07:34,163 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:34,178 [main] INFO automation_practice - Amod
+2021-09-14 21:07:34,195 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:34,210 [main] INFO automation_practice - 2000
+2021-09-14 21:07:34,222 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:34,235 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,248 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:34,259 [main] INFO automation_practice - 1000
+2021-09-14 21:07:34,269 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:34,282 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,294 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,306 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,318 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:34,330 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,341 [main] INFO automation_practice - Java
+2021-09-14 21:07:34,356 [main] INFO automation_practice - 500
+2021-09-14 21:07:34,368 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:34,382 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:34,394 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:34,407 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,423 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:34,435 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,445 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,459 [main] INFO automation_practice - 3000
+2021-09-14 21:07:34,470 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:34,484 [main] INFO automation_practice - Amod
+2021-09-14 21:07:34,496 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:34,510 [main] INFO automation_practice - 2000
+2021-09-14 21:07:34,522 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:34,535 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,552 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:34,568 [main] INFO automation_practice - 1000
+2021-09-14 21:07:34,581 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:34,593 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,605 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,617 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,635 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:34,650 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,663 [main] INFO automation_practice - Java
+2021-09-14 21:07:34,676 [main] INFO automation_practice - 500
+2021-09-14 21:07:34,696 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:34,710 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:34,724 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:34,736 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,753 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:34,768 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,782 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,793 [main] INFO automation_practice - 3000
+2021-09-14 21:07:34,825 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:34,836 [main] INFO automation_practice - Amod
+2021-09-14 21:07:34,850 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:34,861 [main] INFO automation_practice - 2000
+2021-09-14 21:07:34,871 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:34,883 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,895 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:34,908 [main] INFO automation_practice - 1000
+2021-09-14 21:07:34,918 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:07:34,928 [main] INFO automation_practice - Amit
+2021-09-14 21:07:34,940 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:34,952 [main] INFO automation_practice - 300
+2021-09-14 21:07:34,966 [main] INFO automation_practice - Learn Java
+2021-09-14 21:07:34,979 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:34,990 [main] INFO automation_practice - Java
+2021-09-14 21:07:35,006 [main] INFO automation_practice - 500
+2021-09-14 21:07:35,026 [main] INFO automation_practice - Learn JS
+2021-09-14 21:07:35,041 [main] INFO automation_practice - Animesh
+2021-09-14 21:07:35,055 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:35,068 [main] INFO automation_practice - 300
+2021-09-14 21:07:35,089 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:07:35,113 [main] INFO automation_practice - Mukesh
+2021-09-14 21:07:35,133 [main] INFO automation_practice - Selenium
+2021-09-14 21:07:35,150 [main] INFO automation_practice - 3000
+2021-09-14 21:07:35,168 [main] INFO automation_practice - Master In Java
+2021-09-14 21:07:35,185 [main] INFO automation_practice - Amod
+2021-09-14 21:07:35,207 [main] INFO automation_practice - JAVA
+2021-09-14 21:07:35,220 [main] INFO automation_practice - 2000
+2021-09-14 21:07:35,231 [main] INFO automation_practice - Master In JS
+2021-09-14 21:07:35,243 [main] INFO automation_practice - Amit
+2021-09-14 21:07:35,261 [main] INFO automation_practice - Javascript
+2021-09-14 21:07:35,271 [main] INFO automation_practice - 1000
+2021-09-14 21:19:52,479 [main] INFO automation_practice - 24
+2021-09-14 21:19:52,514 [main] INFO automation_practice - 7
+2021-09-14 21:19:52,538 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:52,562 [main] INFO automation_practice - Amit
+2021-09-14 21:19:52,584 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:52,608 [main] INFO automation_practice - 300
+2021-09-14 21:19:52,632 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:52,654 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:52,677 [main] INFO automation_practice - Java
+2021-09-14 21:19:52,695 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:52,709 [main] INFO automation_practice - Amit
+2021-09-14 21:19:52,725 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:52,737 [main] INFO automation_practice - 300
+2021-09-14 21:19:52,751 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:52,764 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:52,777 [main] INFO automation_practice - Java
+2021-09-14 21:19:52,793 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:52,809 [main] INFO automation_practice - Amit
+2021-09-14 21:19:52,823 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:52,837 [main] INFO automation_practice - 300
+2021-09-14 21:19:52,851 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:52,864 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:52,882 [main] INFO automation_practice - Java
+2021-09-14 21:19:52,902 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:52,920 [main] INFO automation_practice - Amit
+2021-09-14 21:19:52,935 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:52,958 [main] INFO automation_practice - 300
+2021-09-14 21:19:52,971 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:52,982 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:52,996 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,014 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,027 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,039 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,054 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,069 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,080 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,092 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,111 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,136 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,149 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,163 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,175 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,193 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,209 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,222 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,236 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,250 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,263 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,276 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,288 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,299 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,313 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,327 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,339 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,351 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,362 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,375 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,389 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,401 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,413 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,426 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,438 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,467 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,481 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,496 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,508 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,523 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,537 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,555 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,569 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,582 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,595 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,608 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,620 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,633 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,647 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,659 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,672 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,689 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,704 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,715 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,728 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,739 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,751 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,766 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,778 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,791 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,803 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,815 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,828 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,842 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,855 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,866 [main] INFO automation_practice - Java
+2021-09-14 21:19:53,878 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:53,891 [main] INFO automation_practice - Amit
+2021-09-14 21:19:53,918 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:53,939 [main] INFO automation_practice - 300
+2021-09-14 21:19:53,969 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:53,988 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:53,999 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,010 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,021 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,034 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,048 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,059 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,069 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,080 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,092 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,103 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,115 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,128 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,142 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,154 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,171 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,184 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,197 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,210 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,220 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,232 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,244 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,256 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,269 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,282 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,297 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,312 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,323 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,336 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,348 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,362 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,373 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,385 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,396 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,406 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,418 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,430 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,442 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,454 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,466 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,478 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,493 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,507 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,521 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,534 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,549 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,565 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,579 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,594 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,625 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,642 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,661 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,674 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,687 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,697 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,709 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,723 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,735 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,744 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,755 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,766 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,777 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,789 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,801 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,811 [main] INFO automation_practice - Java
+2021-09-14 21:19:54,822 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:19:54,832 [main] INFO automation_practice - Amit
+2021-09-14 21:19:54,843 [main] INFO automation_practice - Selenium
+2021-09-14 21:19:54,855 [main] INFO automation_practice - 300
+2021-09-14 21:19:54,866 [main] INFO automation_practice - Learn Java
+2021-09-14 21:19:54,878 [main] INFO automation_practice - Mukesh
+2021-09-14 21:19:54,889 [main] INFO automation_practice - Java
+2021-09-14 21:21:04,940 [main] INFO automation_practice - 24
+2021-09-14 21:21:04,971 [main] INFO automation_practice - 7
+2021-09-14 21:21:04,999 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:05,027 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:05,054 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:05,090 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:05,116 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:05,155 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:05,214 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:05,236 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:05,258 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:05,279 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:05,299 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:05,318 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:05,336 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:05,354 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:05,372 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:05,391 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:05,408 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:05,423 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:05,440 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:05,457 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:05,478 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:05,498 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:05,516 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:05,533 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:05,553 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:05,572 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:05,602 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:05,621 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:05,648 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:05,705 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:05,788 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:05,814 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:05,839 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:05,874 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:05,890 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:05,909 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:05,929 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:05,948 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:05,966 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:05,986 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,012 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,036 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,060 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,083 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,108 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:06,136 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:06,161 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,188 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,217 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,252 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,279 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,303 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:06,329 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:06,355 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,377 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,397 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,421 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,444 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,464 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:06,492 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:06,513 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,529 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,546 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,562 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,579 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,594 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:06,615 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:06,632 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,647 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,663 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,679 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,701 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,722 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:06,740 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:06,757 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,773 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,790 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,808 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,829 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,847 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:06,867 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:06,889 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:06,911 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:06,927 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:06,944 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:06,969 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:06,986 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,007 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,025 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,041 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,065 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,106 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,123 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,139 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,157 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,172 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,189 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,205 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,221 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,239 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,264 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,285 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,305 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,321 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,336 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,351 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,367 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,386 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,405 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,427 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,444 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,464 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,482 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,499 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,514 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,530 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,549 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,566 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,583 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,601 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,620 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,637 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,653 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,671 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,689 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,704 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,723 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,740 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,756 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,773 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,791 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,808 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,823 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,839 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,854 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,871 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:07,888 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:07,903 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:07,920 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:07,936 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:07,951 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:07,966 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:07,985 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:08,002 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:08,019 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:08,037 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:08,053 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:08,070 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:08,086 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:08,103 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:08,119 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:08,142 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:08,156 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:08,171 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:08,190 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:08,208 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:08,226 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:08,245 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:08,260 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:08,277 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:08,294 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:21:08,309 [main] INFO automation_practice - BookName Author Subject Price
+2021-09-14 21:21:08,325 [main] INFO automation_practice - Learn Selenium Amit Selenium 300
+2021-09-14 21:21:08,340 [main] INFO automation_practice - Learn Java Mukesh Java 500
+2021-09-14 21:21:08,357 [main] INFO automation_practice - Learn JS Animesh Javascript 300
+2021-09-14 21:21:08,373 [main] INFO automation_practice - Master In Selenium Mukesh Selenium 3000
+2021-09-14 21:21:08,394 [main] INFO automation_practice - Master In Java Amod JAVA 2000
+2021-09-14 21:21:08,412 [main] INFO automation_practice - Master In JS Amit Javascript 1000
+2021-09-14 21:57:36,510 [main] INFO automation_practice - 24
+2021-09-14 21:57:36,578 [main] INFO automation_practice - 7
+2021-09-14 21:57:36,659 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:36,697 [main] INFO automation_practice - Amit
+2021-09-14 21:57:36,725 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:36,752 [main] INFO automation_practice - 300
+2021-09-14 21:57:36,792 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:36,814 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:36,847 [main] INFO automation_practice - Java
+2021-09-14 21:57:36,900 [main] INFO automation_practice - 500
+2021-09-14 21:57:36,953 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:37,008 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:37,056 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:37,095 [main] INFO automation_practice - 300
+2021-09-14 21:57:37,122 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:37,152 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:37,204 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:37,258 [main] INFO automation_practice - 3000
+2021-09-14 21:57:37,301 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:37,332 [main] INFO automation_practice - Amod
+2021-09-14 21:57:37,361 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:37,446 [main] INFO automation_practice - 2000
+2021-09-14 21:57:37,566 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:37,611 [main] INFO automation_practice - Amit
+2021-09-14 21:57:37,654 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:37,697 [main] INFO automation_practice - 1000
+2021-09-14 21:57:37,753 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:37,779 [main] INFO automation_practice - Amit
+2021-09-14 21:57:37,822 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:37,856 [main] INFO automation_practice - 300
+2021-09-14 21:57:37,874 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:37,899 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:37,914 [main] INFO automation_practice - Java
+2021-09-14 21:57:37,974 [main] INFO automation_practice - 500
+2021-09-14 21:57:37,985 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:38,001 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:38,026 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:38,043 [main] INFO automation_practice - 300
+2021-09-14 21:57:38,063 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:38,082 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:38,109 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:38,131 [main] INFO automation_practice - 3000
+2021-09-14 21:57:38,144 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:38,175 [main] INFO automation_practice - Amod
+2021-09-14 21:57:38,193 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:38,222 [main] INFO automation_practice - 2000
+2021-09-14 21:57:38,237 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:38,262 [main] INFO automation_practice - Amit
+2021-09-14 21:57:38,281 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:38,329 [main] INFO automation_practice - 1000
+2021-09-14 21:57:38,379 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:38,412 [main] INFO automation_practice - Amit
+2021-09-14 21:57:38,440 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:38,469 [main] INFO automation_practice - 300
+2021-09-14 21:57:38,502 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:38,534 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:38,562 [main] INFO automation_practice - Java
+2021-09-14 21:57:38,581 [main] INFO automation_practice - 500
+2021-09-14 21:57:38,605 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:38,627 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:38,638 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:38,654 [main] INFO automation_practice - 300
+2021-09-14 21:57:38,674 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:38,692 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:38,713 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:38,737 [main] INFO automation_practice - 3000
+2021-09-14 21:57:38,787 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:38,833 [main] INFO automation_practice - Amod
+2021-09-14 21:57:38,882 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:38,930 [main] INFO automation_practice - 2000
+2021-09-14 21:57:38,952 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:38,985 [main] INFO automation_practice - Amit
+2021-09-14 21:57:39,009 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:39,040 [main] INFO automation_practice - 1000
+2021-09-14 21:57:39,143 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:39,170 [main] INFO automation_practice - Amit
+2021-09-14 21:57:39,190 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:39,218 [main] INFO automation_practice - 300
+2021-09-14 21:57:39,243 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:39,273 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:39,295 [main] INFO automation_practice - Java
+2021-09-14 21:57:39,319 [main] INFO automation_practice - 500
+2021-09-14 21:57:39,340 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:39,366 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:39,387 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:39,402 [main] INFO automation_practice - 300
+2021-09-14 21:57:39,430 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:39,445 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:39,470 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:39,496 [main] INFO automation_practice - 3000
+2021-09-14 21:57:39,517 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:39,536 [main] INFO automation_practice - Amod
+2021-09-14 21:57:39,557 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:39,581 [main] INFO automation_practice - 2000
+2021-09-14 21:57:39,600 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:39,641 [main] INFO automation_practice - Amit
+2021-09-14 21:57:39,686 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:39,709 [main] INFO automation_practice - 1000
+2021-09-14 21:57:39,787 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:39,838 [main] INFO automation_practice - Amit
+2021-09-14 21:57:39,875 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:39,899 [main] INFO automation_practice - 300
+2021-09-14 21:57:39,923 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:39,941 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:39,967 [main] INFO automation_practice - Java
+2021-09-14 21:57:39,993 [main] INFO automation_practice - 500
+2021-09-14 21:57:40,011 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:40,038 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:40,060 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:40,081 [main] INFO automation_practice - 300
+2021-09-14 21:57:40,099 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:40,130 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:40,144 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:40,162 [main] INFO automation_practice - 3000
+2021-09-14 21:57:40,185 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:40,215 [main] INFO automation_practice - Amod
+2021-09-14 21:57:40,239 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:40,258 [main] INFO automation_practice - 2000
+2021-09-14 21:57:40,290 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:40,312 [main] INFO automation_practice - Amit
+2021-09-14 21:57:40,374 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:40,395 [main] INFO automation_practice - 1000
+2021-09-14 21:57:40,441 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:40,464 [main] INFO automation_practice - Amit
+2021-09-14 21:57:40,487 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:40,511 [main] INFO automation_practice - 300
+2021-09-14 21:57:40,531 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:40,545 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:40,566 [main] INFO automation_practice - Java
+2021-09-14 21:57:40,590 [main] INFO automation_practice - 500
+2021-09-14 21:57:40,612 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:40,632 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:40,645 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:40,670 [main] INFO automation_practice - 300
+2021-09-14 21:57:40,695 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:40,714 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:40,740 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:40,755 [main] INFO automation_practice - 3000
+2021-09-14 21:57:40,776 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:40,795 [main] INFO automation_practice - Amod
+2021-09-14 21:57:40,814 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:40,832 [main] INFO automation_practice - 2000
+2021-09-14 21:57:40,846 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:40,865 [main] INFO automation_practice - Amit
+2021-09-14 21:57:40,885 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:40,901 [main] INFO automation_practice - 1000
+2021-09-14 21:57:40,951 [main] INFO automation_practice - Learn Selenium
+2021-09-14 21:57:40,970 [main] INFO automation_practice - Amit
+2021-09-14 21:57:40,993 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:41,022 [main] INFO automation_practice - 300
+2021-09-14 21:57:41,044 [main] INFO automation_practice - Learn Java
+2021-09-14 21:57:41,064 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:41,093 [main] INFO automation_practice - Java
+2021-09-14 21:57:41,113 [main] INFO automation_practice - 500
+2021-09-14 21:57:41,136 [main] INFO automation_practice - Learn JS
+2021-09-14 21:57:41,150 [main] INFO automation_practice - Animesh
+2021-09-14 21:57:41,170 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:41,196 [main] INFO automation_practice - 300
+2021-09-14 21:57:41,219 [main] INFO automation_practice - Master In Selenium
+2021-09-14 21:57:41,241 [main] INFO automation_practice - Mukesh
+2021-09-14 21:57:41,257 [main] INFO automation_practice - Selenium
+2021-09-14 21:57:41,290 [main] INFO automation_practice - 3000
+2021-09-14 21:57:41,305 [main] INFO automation_practice - Master In Java
+2021-09-14 21:57:41,322 [main] INFO automation_practice - Amod
+2021-09-14 21:57:41,344 [main] INFO automation_practice - JAVA
+2021-09-14 21:57:41,361 [main] INFO automation_practice - 2000
+2021-09-14 21:57:41,385 [main] INFO automation_practice - Master In JS
+2021-09-14 21:57:41,399 [main] INFO automation_practice - Amit
+2021-09-14 21:57:41,430 [main] INFO automation_practice - Javascript
+2021-09-14 21:57:41,447 [main] INFO automation_practice - 1000
+2021-09-14 22:10:32,857 [main] INFO automation_practice - 24
+2021-09-14 22:10:32,907 [main] INFO automation_practice - 7
+2021-09-14 22:11:35,723 [main] INFO automation_practice - 24
+2021-09-14 22:11:35,764 [main] INFO automation_practice - 7
+2021-09-14 22:19:55,248 [main] INFO automation_practice - 24
+2021-09-14 22:19:55,280 [main] INFO automation_practice - 7
+2021-09-14 22:31:10,988 [main] INFO automation_practice - 24
+2021-09-14 22:31:11,051 [main] INFO automation_practice - 7
+2021-09-14 22:38:39,220 [main] INFO automation_practice - 24
+2021-09-14 22:38:39,283 [main] INFO automation_practice - 7
+2021-09-14 22:38:39,386 [main] INFO automation_practice - Learn Selenium
+2021-09-14 22:38:39,446 [main] INFO automation_practice - Amit
+2021-09-14 22:38:39,491 [main] INFO automation_practice - Selenium
+2021-09-14 22:38:39,549 [main] INFO automation_practice - 300
+2021-09-14 22:38:39,724 [main] INFO automation_practice - Learn Java
+2021-09-14 22:38:39,776 [main] INFO automation_practice - Mukesh
+2021-09-14 22:38:39,828 [main] INFO automation_practice - Java
+2021-09-14 22:38:39,880 [main] INFO automation_practice - 500
+2021-09-14 22:38:39,974 [main] INFO automation_practice - Learn JS
+2021-09-14 22:38:40,011 [main] INFO automation_practice - Animesh
+2021-09-14 22:38:40,068 [main] INFO automation_practice - Javascript
+2021-09-14 22:38:40,094 [main] INFO automation_practice - 300
+2021-09-14 22:38:40,141 [main] INFO automation_practice - Master In Selenium
+2021-09-14 22:38:40,169 [main] INFO automation_practice - Mukesh
+2021-09-14 22:38:40,199 [main] INFO automation_practice - Selenium
+2021-09-14 22:38:40,225 [main] INFO automation_practice - 3000
+2021-09-14 22:38:40,284 [main] INFO automation_practice - Master In Java
+2021-09-14 22:38:40,325 [main] INFO automation_practice - Amod
+2021-09-14 22:38:40,367 [main] INFO automation_practice - JAVA
+2021-09-14 22:38:40,394 [main] INFO automation_practice - 2000
+2021-09-14 22:38:40,474 [main] INFO automation_practice - Master In JS
+2021-09-14 22:38:40,535 [main] INFO automation_practice - Amit
+2021-09-14 22:38:40,569 [main] INFO automation_practice - Javascript
+2021-09-14 22:38:40,595 [main] INFO automation_practice - 1000
+2021-09-15 07:16:50,831 [main] INFO automation_practice - 24
+2021-09-15 07:16:50,858 [main] INFO automation_practice - 7
+2021-09-15 07:17:31,488 [main] INFO automation_practice - 24
+2021-09-15 07:17:31,526 [main] INFO automation_practice - 7
+2021-09-15 07:17:31,581 [main] INFO automation_practice - Learn Selenium
+2021-09-15 07:17:31,598 [main] INFO automation_practice - Amit
+2021-09-15 07:17:31,614 [main] INFO automation_practice - Selenium
+2021-09-15 07:17:31,633 [main] INFO automation_practice - 300
+2021-09-15 07:17:31,673 [main] INFO automation_practice - Learn Java
+2021-09-15 07:17:31,689 [main] INFO automation_practice - Mukesh
+2021-09-15 07:17:31,711 [main] INFO automation_practice - Java
+2021-09-15 07:17:31,731 [main] INFO automation_practice - 500
+2021-09-15 07:17:31,767 [main] INFO automation_practice - Learn JS
+2021-09-15 07:17:31,786 [main] INFO automation_practice - Animesh
+2021-09-15 07:17:31,802 [main] INFO automation_practice - Javascript
+2021-09-15 07:17:31,818 [main] INFO automation_practice - 300
+2021-09-15 07:17:31,860 [main] INFO automation_practice - Master In Selenium
+2021-09-15 07:17:31,883 [main] INFO automation_practice - Mukesh
+2021-09-15 07:17:31,910 [main] INFO automation_practice - Selenium
+2021-09-15 07:17:31,928 [main] INFO automation_practice - 3000
+2021-09-15 07:17:31,962 [main] INFO automation_practice - Master In Java
+2021-09-15 07:17:31,979 [main] INFO automation_practice - Amod
+2021-09-15 07:17:31,995 [main] INFO automation_practice - JAVA
+2021-09-15 07:17:32,015 [main] INFO automation_practice - 2000
+2021-09-15 07:17:32,050 [main] INFO automation_practice - Master In JS
+2021-09-15 07:17:32,065 [main] INFO automation_practice - Amit
+2021-09-15 07:17:32,080 [main] INFO automation_practice - Javascript
+2021-09-15 07:17:32,095 [main] INFO automation_practice - 1000
+2021-09-15 12:01:06,525 [main] INFO automation_practice - 24
+2021-09-15 12:01:06,593 [main] INFO automation_practice - 7
+2021-09-15 12:01:06,655 [main] INFO automation_practice - Learn Selenium
+2021-09-15 12:01:06,673 [main] INFO automation_practice - Amit
+2021-09-15 12:01:06,696 [main] INFO automation_practice - Selenium
+2021-09-15 12:01:06,724 [main] INFO automation_practice - 300
+2021-09-15 12:01:06,763 [main] INFO automation_practice - Learn Java
+2021-09-15 12:01:06,788 [main] INFO automation_practice - Mukesh
+2021-09-15 12:01:06,808 [main] INFO automation_practice - Java
+2021-09-15 12:01:06,833 [main] INFO automation_practice - 500
+2021-09-15 12:01:06,884 [main] INFO automation_practice - Learn JS
+2021-09-15 12:01:06,911 [main] INFO automation_practice - Animesh
+2021-09-15 12:01:06,935 [main] INFO automation_practice - Javascript
+2021-09-15 12:01:06,958 [main] INFO automation_practice - 300
+2021-09-15 12:01:06,994 [main] INFO automation_practice - Master In Selenium
+2021-09-15 12:01:07,032 [main] INFO automation_practice - Mukesh
+2021-09-15 12:01:07,060 [main] INFO automation_practice - Selenium
+2021-09-15 12:01:07,082 [main] INFO automation_practice - 3000
+2021-09-15 12:01:07,132 [main] INFO automation_practice - Master In Java
+2021-09-15 12:01:07,154 [main] INFO automation_practice - Amod
+2021-09-15 12:01:07,180 [main] INFO automation_practice - JAVA
+2021-09-15 12:01:07,205 [main] INFO automation_practice - 2000
+2021-09-15 12:01:07,251 [main] INFO automation_practice - Master In JS
+2021-09-15 12:01:07,277 [main] INFO automation_practice - Amit
+2021-09-15 12:01:07,297 [main] INFO automation_practice - Javascript
+2021-09-15 12:01:07,330 [main] INFO automation_practice - 1000
+2021-09-24 07:29:01,352 [main] INFO automation_practice - 24
+2021-09-24 07:29:01,414 [main] INFO automation_practice - 7
+2021-09-24 07:29:01,468 [main] INFO automation_practice - Learn Selenium
+2021-09-24 07:29:01,486 [main] INFO automation_practice - Amit
+2021-09-24 07:29:01,512 [main] INFO automation_practice - Selenium
+2021-09-24 07:29:01,536 [main] INFO automation_practice - 300
+2021-09-24 07:29:01,586 [main] INFO automation_practice - Learn Java
+2021-09-24 07:29:01,604 [main] INFO automation_practice - Mukesh
+2021-09-24 07:29:01,620 [main] INFO automation_practice - Java
+2021-09-24 07:29:01,635 [main] INFO automation_practice - 500
+2021-09-24 07:29:01,674 [main] INFO automation_practice - Learn JS
+2021-09-24 07:29:01,693 [main] INFO automation_practice - Animesh
+2021-09-24 07:29:01,709 [main] INFO automation_practice - Javascript
+2021-09-24 07:29:01,731 [main] INFO automation_practice - 300
+2021-09-24 07:29:01,771 [main] INFO automation_practice - Master In Selenium
+2021-09-24 07:29:01,794 [main] INFO automation_practice - Mukesh
+2021-09-24 07:29:01,811 [main] INFO automation_practice - Selenium
+2021-09-24 07:29:01,827 [main] INFO automation_practice - 3000
+2021-09-24 07:29:01,864 [main] INFO automation_practice - Master In Java
+2021-09-24 07:29:01,881 [main] INFO automation_practice - Amod
+2021-09-24 07:29:01,903 [main] INFO automation_practice - JAVA
+2021-09-24 07:29:01,922 [main] INFO automation_practice - 2000
+2021-09-24 07:29:01,952 [main] INFO automation_practice - Master In JS
+2021-09-24 07:29:01,968 [main] INFO automation_practice - Amit
+2021-09-24 07:29:01,991 [main] INFO automation_practice - Javascript
+2021-09-24 07:29:02,007 [main] INFO automation_practice - 1000
