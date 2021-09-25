@@ -126,6 +126,7 @@ public class automation_practice {
 		  List<WebElement> column = rowcount.findElements(By.tagName("td"));
 		  for(WebElement countcolumn: column) {
 			  log.info(countcolumn.getText());
+			  log.info("Hey Vashim");
 		  }
 		  
 		  
